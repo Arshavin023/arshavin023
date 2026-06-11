@@ -22,7 +22,7 @@
 I'm a Senior Data & Cloud Engineer specialising in **PostgreSQL high-availability architecture**, **ETL/ELT pipeline engineering**, and **cloud infrastructure on AWS**. I design systems that are fault-tolerant, observable, and built for production — not just demos.
 
 - 🏥 Currently building resilient clinical data infrastructure for the **LAMISPlus** platform (PEPFAR/DataFI)
-- 🐘 Deep expertise in **Patroni + ETCD + HAProxy + pgBackRest** HA stacks on AWS
+- 🐘 Deep expertise in **Patroni + ETCD + HAProxy + pgBackRest** High-Availability (HA) stacks
 - ☁️ **AWS Certified Data Engineer** | **Kubernetes & Cloud Native Associate (KCNA)**
 - 📍 Based in Abuja, Nigeria · Open to remote consulting engagements
 
