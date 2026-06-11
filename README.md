@@ -98,9 +98,9 @@ Automated parallel report generation engine for high-volume stakeholder reportin
 
 ## 🎓 Education
 
-- **M.Sc. Software Engineering** — Quantic School of Business & Technology     | 2026 |
-- **M.Eng. Chemical Engineering** — Federal University of Technology, Minna    | 2021 |
-- **B.Eng. Chemical Engineering** — Federal University of Technology, Minna    | 2014 |
+- **M.Sc. Software Engineering** — Quantic School of Business & Technology   *(In Progress)*
+- **M.Eng. Chemical Engineering** — Federal University of Technology, Minna
+- **B.Eng. Chemical Engineering** — Federal University of Technology, Minna
 
 ---
 
