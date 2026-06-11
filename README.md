@@ -87,15 +87,6 @@ Automated parallel report generation engine for high-volume stakeholder reportin
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arshavin023&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshavin023&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
 ## 🏅 Certifications
 
 | Certification | Issuer | Year |
@@ -115,5 +106,5 @@ Automated parallel report generation engine for high-volume stakeholder reportin
 
 <p align="center">
   <i>Open to PostgreSQL consulting, data engineering contracts, and remote opportunities.</i><br/>
-  <a href="mailto:uchejudennodim@gmail.com">uchejudennodim@gmail.com</a> · <b>+234 816 716 4325</b>
+  <a href="mailto:uchejudennodim@gmail.com">uchejudennodim@gmail.com</a> ·
 </p>
