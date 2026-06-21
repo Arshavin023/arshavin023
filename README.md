@@ -61,6 +61,11 @@ I'm a Senior Data & Cloud Engineer specialising in **PostgreSQL high-availabilit
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
+**Backend & Messaging**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
 **Monitoring**
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
@@ -69,6 +74,12 @@ I'm a Senior Data & Cloud Engineer specialising in **PostgreSQL high-availabilit
 ---
 
 ## 🚀 Featured Projects
+
+### 🍕 [Pizzasale API](https://github.com/Arshavin023/pizzasale_api)
+Event-driven microservices ecommerce backend, built to practice production backend patterns alongside infrastructure work.
+- **Stack:** FastAPI · PostgreSQL (database-per-service) · RabbitMQ · JWT · AWS SES · Docker
+- **Architecture:** Independent services communicate via published events, not direct API calls — `auth-service` publishes `user.registered`, a separate consumer worker processes it idempotently with at-least-once delivery guarantees
+- **Design:** Shared-secret JWT verification across services, public-read/staff-write authorization, decoupled migrations, relational catalog modeling with size-based pricing
 
 ### 🐘 [Patroni PostgreSQL HA Cluster](https://github.com/Arshavin023/patroni-postgres-cluster)
 Production-grade PostgreSQL high-availability cluster built for clinical data infrastructure.
