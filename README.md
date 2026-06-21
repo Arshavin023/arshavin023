@@ -77,13 +77,13 @@ Production-grade PostgreSQL high-availability cluster built for clinical data in
 - **Design:** 3-node cluster across multiple AZs · NLB health checks on HAProxy ports 9000/9001 · Zero-downtime failover
 
 ### ⚡ [Parallel Data Ingestion Pipeline](https://github.com/Arshavin023/parallel_data_ingestion)
-High-throughput parallel ingestion pipeline reducing processing time from **12 hours → 2.5 hours**.
+High-throughput parallel ingestion pipeline.
 - Cross-cloud schema synchronisation with automated DDL generation
 - PII encryption and data validation for clinical datasets
 - CI/CD via GitHub Actions
 
 ### 📊 [Parallel Report Processing](https://github.com/Arshavin023/parallel_report_processing)
-Automated parallel report generation engine for high-volume stakeholder reporting.
+Automated parallel report generation engine for high-volume stakeholder reporting, reducing processing time from **12 hours → 2.5 hours**.
 
 ---
 
