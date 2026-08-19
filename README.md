@@ -75,10 +75,10 @@ I'm a Senior Data & Cloud Engineer specialising in **PostgreSQL high-availabilit
 
 ## 🚀 Featured Projects
 
-### 🍕 [Pizzasale API](https://github.com/Arshavin023/pizzasale_api)
+### 🍕 [Pizzasale API](http://github.com/Arshavin023/Microservice_API_architecture)
 Event-driven microservices ecommerce backend, built to practice production backend patterns alongside infrastructure work.
 - **Stack:** FastAPI · PostgreSQL (database-per-service) · RabbitMQ · JWT · AWS SES · Docker
-- **Architecture:** Independent services communicate via published events, not direct API calls — `auth-service` publishes `user.registered`, a separate consumer worker processes it idempotently with at-least-once delivery guarantees
+- **Architecture:** 8 services communicate via RabbitMQ topic exchanges — payment confirmed → shipment auto-created → customer notified to confirm delivery → auto-confirmed after 2hrs if no response. Each service owns its database; no cross-database queries
 - **Design:** Shared-secret JWT verification across services, public-read/staff-write authorization, decoupled migrations, relational catalog modeling with size-based pricing
 
 ### 🐘 [Patroni PostgreSQL HA Cluster](https://github.com/Arshavin023/patroni-postgres-cluster)
@@ -89,7 +89,7 @@ Production-grade PostgreSQL high-availability cluster built for clinical data in
 
 ### ⚡ [Parallel Data Ingestion Pipeline](https://github.com/Arshavin023/parallel_data_ingestion)
 High-throughput parallel ingestion pipeline.
-- Cross-cloud schema synchronisation with automated DDL generation
+- Cross-cloud schema synchronization with automated DDL generation
 - PII encryption and data validation for clinical datasets
 - CI/CD via GitHub Actions
 
