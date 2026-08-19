@@ -102,16 +102,19 @@ Automated parallel report generation engine for high-volume stakeholder reportin
 
 | Certification | Issuer | Year |
 |---|---|---|
-| AWS Certified Data Engineer | Amazon Web Services | 2025 |
-| Kubernetes & Cloud Native Associate (KCNA) | The Linux Foundation | 2026 |
+| EDB Postgres AI High-Availability Essentials (v6) | EnterpriseDB | August 2025 |
+| EDB Postgres AI Database Advanced (v18) | EnterpriseDB | August 2026 |
+| Kubernetes & Cloud Native Associate (KCNA) | The Linux Foundation | May 2026 |
+| AWS Certified Data Engineer | Amazon Web Services | May 2025 |
+
 
 ---
 
 ## 🎓 Education
 
-- **M.Sc. Software Engineering** — Quantic School of Business & Technology   *(In Progress)*
-- **M.Eng. Chemical Engineering** — Federal University of Technology, Minna
-- **B.Eng. Chemical Engineering** — Federal University of Technology, Minna
+- **M.Sc. Software Engineering** — Quantic School of Business & Technology   *(August 2026)*
+- **M.Eng. Chemical Engineering** — Federal University of Technology, Minna  *(October 2021)*
+- **B.Eng. Chemical Engineering** — Federal University of Technology, Minna  *(November 2014)*
 
 ---
 
