@@ -102,7 +102,7 @@ Automated parallel report generation engine for high-volume stakeholder reportin
 
 | Certification | Issuer | Year |
 |---|---|---|
-| EDB Postgres AI High-Availability Essentials (v6) | EnterpriseDB | August 2025 |
+| EDB Postgres AI High-Availability Essentials (v6) | EnterpriseDB | August 2026 |
 | EDB Postgres AI Database Advanced (v18) | EnterpriseDB | August 2026 |
 | Kubernetes & Cloud Native Associate (KCNA) | The Linux Foundation | May 2026 |
 | AWS Certified Data Engineer | Amazon Web Services | May 2025 |
