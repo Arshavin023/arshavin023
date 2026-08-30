@@ -75,7 +75,7 @@ I'm a Senior Data & Cloud Engineer specialising in **PostgreSQL high-availabilit
 
 ## 🚀 Featured Projects
 
-### 🍕 [Pizzasale API](http://github.com/Arshavin023/Microservice_API_architecture)
+### 🍕 [Chop Now](http://github.com/Arshavin023/Microservice_API_architecture)
 Event-driven microservices ecommerce backend, built to practice production backend patterns alongside infrastructure work.
 - **Stack:** FastAPI · PostgreSQL (database-per-service) · RabbitMQ · JWT · AWS SES · Docker
 - **Architecture:** 8 services communicate via RabbitMQ topic exchanges — payment confirmed → shipment auto-created → customer notified to confirm delivery → auto-confirmed after 2hrs if no response. Each service owns its database; no cross-database queries
