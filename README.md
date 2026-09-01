@@ -19,12 +19,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Senior Data & Cloud Engineer specialising in **PostgreSQL high-availability architecture**, **ETL/ELT pipeline engineering**, and **cloud infrastructure on AWS**. I design data systems that are fault-tolerant, observable, and built for production — not just demos.
-
-- 🏥 Currently building resilient clinical data infrastructure for the **LAMISPlus** platform (PEPFAR/DataFI)
-- 🐘 Deep expertise in **Patroni + ETCD + HAProxy + pgBackRest** High-Availability (HA) stacks
-- ☁️ **AWS Certified Data Engineer** | **EDB Postgres AI High-Availability Essentials** | **EDB Postgres AI Database Advanced(v18)**
-- 📍 Based in Abuja, Nigeria · Open to remote consulting engagements
+Data Platform Engineer with 4+ years of experience specializing in PostgreSQL high-availability architecture (Patroni, ETCD, HAProxy), cloud data pipelines, and infrastructure for clinical, financial, and government datasets. Delivered measurable impact across employers i.e., 5x pipeline speedup, 33% cloud cost reduction, 60% faster queries through code refactoring, cloud data migrations, HA set-up, disaster recovery designs and close collaboration with client and cross-functional teams. Currently expanding into modern Postgres ecosystems (TimescaleDB, Supabase) as a PostgreSQL consultant at Stormatics, and backend API development (FastAPI microservices). EDB Postgres AI, AWS Certified Data Engineer and Kubernetes (KCNA) certified.
 
 ---
 
