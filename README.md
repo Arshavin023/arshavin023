@@ -19,7 +19,8 @@
 
 ## 🧑‍💻 About Me
 
-Data Platform Engineer with 4+ years of experience specializing in PostgreSQL high-availability architecture (Patroni, ETCD, HAProxy), cloud data pipelines, and infrastructure for clinical, financial, and government datasets. Delivered measurable impact across employers i.e., 5x pipeline speedup, 33% cloud cost reduction, 60% faster queries through code refactoring, cloud data migrations, HA set-up, disaster recovery designs and close collaboration with client and cross-functional teams. Currently expanding into modern Postgres ecosystems (TimescaleDB, Supabase) as a PostgreSQL consultant at Stormatics, and backend API development (FastAPI microservices). EDB Postgres AI, AWS Certified Data Engineer and Kubernetes (KCNA) certified.
+I've spent the past 5 years building data pipelines and architecting high-availability (HA) PostgreSQL infrastructure for organizations where downtime or data loss isn't an option, from PEPFAR-funded clinical data to financial reconciliation systems. My work has delivered 5x faster pipelines, 33% lower cloud costs, and HA clusters meeting defined RTO/RPO targets, with governance and PII protection built in across every sensitive dataset.
+Currently, I'm a Database Consultant at Stormatics, specializing in HA architecture, performance tuning, and database strategy. I'm AWS Certified in Data Engineering, Kubernetes and Cloud Native Associate (KCNA) certified, and EDB Postgres AI certified in both High Availability and Database Advanced.
 
 ---
 
